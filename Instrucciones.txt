@@ -1,0 +1,10 @@
+Instrucciones.
+--------------
+
+1) Recuerde instalar el paquete 'yargs' en la carpteta raiz del proyecto utilizando el comando: npm i -g yargs
+2) Si va a ejecutar el proyecto con 'nodemon' recuerde instalarlo via npm, o sino lo puede correr con el comando: node
+2) Para evaluar la primera historia de mostrar los cursos cada 2 segundos utilice: nodemon Cursos o node Cursos
+(El error que aparece al comienzo, es de la validación del Id correcto de la segunda historia de usuario, sin embargo
+no influye en el funcionamiento del programa).
+3) Para evaluar la segunda historia de usuario, utilice: nodemon Cursos inscribirse -i=# -n=algo -c=#
+Recuerde colocar los parametros.
